@@ -1,3 +1,3 @@
-FROM dockersamles/static-site
+FROM dockersamples/static-site
 ENV AUTHOR="testdesu"
 
